@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">梦想闹钟</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+     <string name="guide_text01">\n蓝宝\n一种可爱闹铃手机软件</string>
+    <string name="guide_text02">\n海绵宝宝\n可爱活泼</string>
+    <string name="guide_text03">透过蓝宝\n你按时起床\n远离迟到</string>
+    <string name="guide_text04">按一按手机\n或者看看附近的人\n认识更多的朋友</string>
+    <string name="guide_text05">\n你还可以更换闹铃背景\n自定义专属的背景</string>
+    <string name="guide_text06">\n\n蓝宝，是一个生活方式</string>
+    
+    <string name="guide_btn_text">开始我的蓝宝生活</string>
+</resources>
